@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gpt3_jsm/static/css/main.5a31eb7c.css",
+    "main.js": "/gpt3_jsm/static/js/main.4ba088c5.js",
+    "static/media/logo.svg": "/gpt3_jsm/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gpt3_jsm/index.html",
+    "main.5a31eb7c.css.map": "/gpt3_jsm/static/css/main.5a31eb7c.css.map",
+    "main.4ba088c5.js.map": "/gpt3_jsm/static/js/main.4ba088c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a31eb7c.css",
+    "static/js/main.4ba088c5.js"
+  ]
+}
